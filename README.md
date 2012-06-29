@@ -1,4 +1,4 @@
 sandbox
 =======
 
-sandbox: anything can happen
+anything can happen
